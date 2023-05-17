@@ -1,12 +1,13 @@
 # TODO
 
-- Scan new sea angels and the maquette's base (Make 3D scans of everything we already have)
-- Build cliffs and walls
-- Look for more sign language and hand gestures
-- Add feathers, <dev>water</dev> and walls to the maquette's base
+- Scan feathers and cliffs/walls
+- Look for more sign language and hand gestures (work in progress...)
 - Make a photoshop document to evaluate the scale of the different objects
 - Think about interactions (work in progress...)
-- Make tiny version of the <dev>sea angels,</dev> birds'skeletons <dev>and sea slugs</dev>
+- <dev>Scan new sea angels and the maquette's base (Make 3D scans of everything we already have)</dev>
+- <dev>Build cliffs and walls</dev>
+- <dev>Add feathers, water and walls to the maquette's base</dev>
+- <dev>Make tiny version of the sea angels, birds'skeletons and sea slugs</dev>
 - <del>New cliones with an aesthetic closer to the birds'skeletons</del>
 - <del>Bring paint</del>
 - <del>Pâte à fixe to help objects to stand up while being filmed</del>
