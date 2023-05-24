@@ -4,9 +4,10 @@
 - Look for more sign language and hand gestures (work in progress...)
 - Make a photoshop document to evaluate the scale of the different objects
 - Think about interactions (work in progress...)
-- Scan egg
 - Clean scans (bring graphic tablet)
+- Continue the Unity Map
 
+- <del>Scan egg</del>
 - <del> Scan feathers and cliffs/walls</del>
 - <del>Scan new sea angels and the maquette's base (Make 3D scans of everything we already have)</del>
 - <del>Build cliffs and walls</del>
