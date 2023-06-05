@@ -9,7 +9,16 @@ You are a clione. Each year, you and your family need to leave the ocean and cro
 
 ## Synopsis
 
-This is a "1 pager" that explains all the basics in one page. This is a text-based description of the project with maybe one illustration that accompagnies the text.
+You emerge from water, you embody the north clione. You are surrounded by your 3 other companions. Together, you carry one egg.
+
+Then, you start to move automatically on this scary island.
+You have to go toward the pond to give birth.
+
+You are weak, but each of you is dedicated to make the egg survive, this is why you regulary change your point of view, just to make sure that the danger isn't coming from anywhere.
+
+Traveling accross the island, you hear terrifying noises and encounter many stressing situations: some skeletons are falling, you see floating feather's from your predators and hear noises from them. However, none of them were alive.
+
+Your travel finish in the pond where you can finally give birth and accomplish your mission.
 
 ## Visual Interaction Loop
 
