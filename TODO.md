@@ -1,12 +1,20 @@
 # TODO
 
 
-- Look for more sign language and hand gestures (work in progress...)
-- Make a photoshop document to evaluate the scale of the different objects
+
 - Think about interactions (work in progress...)
 - Clean scans (bring graphic tablet)
 - Continue the Unity Map
+- Animate characters / landscape / features
+- Make sounds
+- Create collider for our main interaction
+- Create cloud of noise to significate our interaction
+- Create final scene where the clione jump with egg into water
+- Create a how to play at the beginning of the game
 
+
+- <del>Make a photoshop document to evaluate the scale of the different objects</del>
+- <del>Look for more sign language and hand gestures (work in progress...)</del>
 - <del>Scan egg</del>
 - <del> Scan feathers and cliffs/walls</del>
 - <del>Scan new sea angels and the maquette's base (Make 3D scans of everything we already have)</del>
