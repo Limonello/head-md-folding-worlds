@@ -5,20 +5,27 @@
 
 ## Pitch
 
-You are a clione. Each year, you and your family need to leave the ocean and cross the earth, carrying and protecting together a single egg. You need to avoid birds, your mortal predators, to reach a pound in which your egg will be safe. But this year seems unusually calm with birds remains all along the way. You start your journey to transmit life with your group, connected by the urge to give birth. Each member of the group has to scrutinize only one part of the environment. It's together that you can see everything around you. While going to the pound, a question remains: what if some birds were still alive ?
+You are a clione. Each year, you and your family need to leave the ocean and cross the earth to give birth. You need to avoid birds, your mortal predators, to reach a pound in which your egg will be safe. But this year seems unusually calm with birds remains all along the way. Cliones have different roles in this mission and you are part of sentinels. You have to check the area in order for you friends carrying the eggs to be able to pursue their way to the pound safely. But don't rush or your friends will stay stuck behind.
+
 
 ## Synopsis
 
-You emerge from water, you embody the north clione. You are surrounded by your 3 other companions. Together, you carry one egg.
+You are a sentinel and you see a new emerging clione carrying an egg (CCAE).
 
-Then, you start to move automatically on this scary island.
-You have to go toward the pond to give birth.
+You are shining while the CCAE floats in direction to the pond. CCAE emits a soft sound.
 
-You are weak, but each of you is dedicated to make the egg survive, this is why you regulary change your point of view, just to make sure that the danger isn't coming from anywhere.
+When CCAE leaves your light area, she freezes on place, starts shaking and cry.
 
-Traveling accross the island, you hear terrifying noises and encounter many stressing situations: some skeletons are falling, you see floating feather's from your predators and hear noises from them. However, none of them were alive.
+This is the moment where you have to pass to an other sentinel with your hand. One plate hand and the other one slides on a side on it.
 
-Your travel finish in the pond where you can finally give birth and accomplish your mission.
+You are in the second sentinel, you starts to shine again, while the first one is shuting down, and CCAE starts to move again.
+
+You have to continue this way to reach the pond.
+
+When you arrive at it, you see CCAE dive into water, mission accomplished.
+
+You hear a new sound which comes from the beginning, maybe an other one is waiting for you to carry her...
+
 
 ## Visual Interaction Loop
 
@@ -26,11 +33,10 @@ Our fundamental interaction would be having the possibility to switch from one s
 
 ## POV
 
-- Sea angel 1: floats, glued back to back to their siblings, facing north
-- Sea angel 2: floats, glued back to back to their siblings, facing east
-- Sea angel 3: floats, glued back to back to their siblings, facing south
-- Sea angel 4: floats, glued back to back to their siblings, facing west
-
+- Sea angel 1: floats, shine when you embody her, shut down when you do not. Can pass to an other with sign. 
+- Sea angel 2: floats, shine when you embody her, shut down when you do not. Can pass to an other with sign. 
+- Sea angel 3: floats, shine when you embody her, shut down when you do not. Can pass to an other with sign. 
+- Sea angel 4:  floats, shine when you embody her, shut down when you do not. Can pass to an other with sign. 
 ## Assets
 
 - Models
@@ -47,7 +53,8 @@ Our fundamental interaction would be having the possibility to switch from one s
   - bird screech (AAAAAAAAACK, EEEEEEEEECK)
   - wind (Fshhhhhhhh fshhhhhhhh)
   - Waves (Fshhhhhhh fshhhhhhh but in a wave style)
-  - Sea angels noises ("ooOOOOOoooOOOOOOooo")
+  - Sea angels noises ("plouplouplou") while happy
+  - Sea angels noises ("WOUWOUWOUWOUWOU") while scary
   - Falling things (PrrrrrrrrrOOOOAAAAMMMMM BRRRMMMmmmmmmm...)
   - Emerging from water ("Pshhh Plsh Plash")
 
@@ -57,15 +64,24 @@ Describe all the objects in a Scene that need to have a "state". Don't worry abo
 
 - Sea
   - Wobbling/waving
+
 - Sea angels
   - Moving/waving gracefully
   - Floating
-  - Observing (where is the camera)
+  - shakes on place when is not in the lights area
+  - sliding forwards in the lights
+
+- Sentinels
+  - emits lights when you embody
+  - shut down lights when you pass role
+
 - Egg
   - Float
   - Follow sea angels
+
 - Feathers
   - Float in the air
+
 - Birds skeletons
   - Don't move
-  - Collapse
+  - Collapse while in lights
