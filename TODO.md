@@ -1,18 +1,17 @@
 # TODO
 
-
-
 - Think about interactions (work in progress...)
 - Clean scans (bring graphic tablet)
+- Clean sounds
+- Change the environment's colors
 - Continue the Unity Map
-- Animate characters / landscape / features
-- Make sounds
+- Animate characters / landscape / features => Start rigging
 - Create collider for our main interaction
 - Create cloud of noise to significate our interaction
 - Create final scene where the clione jump with egg into water
 - Create a how to play at the beginning of the game
 
-
+- <del>Make sounds</del>
 - <del>Make a photoshop document to evaluate the scale of the different objects</del>
 - <del>Look for more sign language and hand gestures (work in progress...)</del>
 - <del>Scan egg</del>
