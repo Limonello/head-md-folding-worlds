@@ -6,7 +6,7 @@
 - Change the environment's colors
 - Continue the Unity Map
 - Animate characters / landscape / features => Start rigging
-- Create collider for our main interaction
+- Create collider for our main interaction + trigger light and animation
 - Create cloud of noise to significate our interaction
 - Create final scene where the clione jump with egg into water
 - Create a how to play at the beginning of the game
