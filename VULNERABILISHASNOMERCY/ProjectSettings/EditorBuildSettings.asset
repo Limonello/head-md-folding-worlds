@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Samples/XR Interaction Toolkit/2.3.2/Hands Interaction Demo/Runtime/HandsDemoScene.unity
     guid: 3ff35cecbcc52cc42945cf531638a60a
+  - enabled: 1
+    path: Assets/Scenes/Vulnerabilishand.unity
+    guid: 190de5c3140e69c41a3eae40bb1bd222
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e13a14adea31279439c44e7466121248,
       type: 2}

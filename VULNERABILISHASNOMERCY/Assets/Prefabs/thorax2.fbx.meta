@@ -3,7 +3,22 @@ guid: 9b12f42ae1dadf548a3b2bf2601681de
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: thoraxcolor
+    second: {fileID: 2800000, guid: 0a33b63979a39a64a9f40b1b0e976033, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: thoraxnormal
+    second: {fileID: 2800000, guid: baaeb61e93393d74298244f77afa1356, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: thoraxtexnew2
+    second: {fileID: 2800000, guid: 0f7fa4f9a7504e1468ff0c21099ac471, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
