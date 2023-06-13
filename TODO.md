@@ -1,18 +1,19 @@
 # TODO
 
-- Think about interactions (work in progress...)
 - Create the hand gesture for unity
-- Test emissive texture on the sea angel carrying the egg (see if it broke the script or not)
 - Check FPS and optimize the fluidity
+- Correct camera's position when on a sea angel
 - Add sounds in our unity's project (and mayble clean some more)
 - Animate characters / landscape / features => Start rigging
 - Create collider for our main interaction + trigger light and animation
-- Make a teleportation functionality in unity
 - Create cloud of noise to significate our interaction
 - Create final scene where the clione jump with egg into water
 - Create a how to play at the beginning of the game
 - Maybe make feathers floating in th air
 
+- <del>Make a teleportation functionality in unity<del>
+- <del>Think about interactions</del>
+- <del>Test emissive texture on the sea angel carrying the egg (see if it broke the script or not)</del>
 - <del>Clean sounds</del>
 - <del>Change the environment's colors</del>
 - <del>Continue the Unity Map</del>
