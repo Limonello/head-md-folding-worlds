@@ -1,10 +1,11 @@
 # TODO
 
-- Create the hand gesture for unity
+- Understand why sound is not looping
+- Create collider interaction (move/freeze)
 - Correct camera's position when on a sea angel
 - Add sounds in our unity's project (and mayble clean some more)
 - Animate characters / landscape / features => Start rigging
-- Create collider for our main interaction + trigger light and animation
+- Create the hand gesture for unity
 - Create cloud of noise to significate our interaction
 - Create final scene where the clione jump with egg into water
 - Create a how to play at the beginning of the game
