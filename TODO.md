@@ -1,16 +1,18 @@
 # TODO
 
-- Understand why sound is not looping
-- Create collider interaction (move/freeze)
-- Correct camera's position when on a sea angel
-- Add sounds in our unity's project (and mayble clean some more)
+- Finish adjusting the sound
+- Create final animation where the clione jump with egg into water
 - Animate characters / landscape / features => Start rigging
 - Create the hand gesture for unity
 - Create cloud of noise to significate our interaction
-- Create final scene where the clione jump with egg into water
 - Create a how to play at the beginning of the game
 - Maybe make feathers floating in the air
 
+- <del>Do postprod (colors, ...)</del>
+- <del>Add sounds in our unity's project (and mayble clean some more)</del>
+- <del>Correct camera's position when on a sea angel</del>
+- <del>Create collider interaction (move/freeze)<del>
+- <del>Understand why sound is not looping</del>
 - <del>Check FPS and optimize the fluidity</del>
 - <del>Make a teleportation functionality in unity<del>
 - <del>Think about interactions</del>
