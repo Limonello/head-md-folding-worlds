@@ -6,6 +6,7 @@ TagManager:
   tags:
   - RedMan
   - EndCCAE
+  - CameraCollider
   layers:
   - Default
   - TransparentFX
