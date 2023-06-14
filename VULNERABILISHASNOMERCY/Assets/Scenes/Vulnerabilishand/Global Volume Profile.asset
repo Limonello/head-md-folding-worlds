@@ -53,16 +53,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 558a8e2b6826cf840aae193990ba9f2e, type: 3}
   m_Name: ShadowsMidtonesHighlights
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.96216244, y: 1, z: 0.999998, w: 0}
+    m_Value: {x: 0.2749632, y: 0.30792975, z: 1, w: 0}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.989589, y: 1, z: 0.98581606, w: 0}
+    m_Value: {x: 0.95975846, y: 1, z: 0.78270495, w: 0.023174975}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 0.93752646, y: 1, z: 0.9368504, w: 0}
+    m_Value: {x: 0.9650888, y: 1, z: 0.90467644, w: -0.006952205}
   shadowsStart:
     m_OverrideState: 0
     m_Value: 0
@@ -245,7 +245,7 @@ MonoBehaviour:
   hueVsSat:
     m_OverrideState: 1
     m_Value:
-      <length>k__BackingField: 7
+      <length>k__BackingField: 9
       m_Loop: 1
       m_ZeroValue: 0.5
       m_Range: 1
@@ -253,17 +253,17 @@ MonoBehaviour:
         serializedVersion: 2
         m_Curve:
         - serializedVersion: 3
-          time: 0.07431552
+          time: 0
           value: 0
-          inSlope: 0
-          outSlope: 0
+          inSlope: 8.31306
+          outSlope: 8.31306
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.07441552
-          value: 1
+          time: 0.06933167
+          value: 0.99466664
           inSlope: 7.2508454
           outSlope: 7.2508454
           tangentMode: 0
@@ -271,8 +271,8 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.176445
-          value: 1
+          time: 0.25359148
+          value: 0
           inSlope: -0.3399963
           outSlope: -0.3399963
           tangentMode: 0
@@ -280,16 +280,16 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.20034766
-          value: 0
-          inSlope: -2.4489777
-          outSlope: -2.4489777
+          time: 0.35977513
+          value: 1
+          inSlope: -2.7323744
+          outSlope: -2.7323744
           tangentMode: 0
           weightedMode: 0
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.49804434
+          time: 0.51905054
           value: 0
           inSlope: 1.0447339
           outSlope: 1.0447339
@@ -298,7 +298,7 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.6197306
+          time: 0.6408494
           value: 1
           inSlope: 0.77066976
           outSlope: 0.77066976
@@ -307,7 +307,25 @@ MonoBehaviour:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.71534115
+          time: 0.76264834
+          value: 0
+          inSlope: -3.536866
+          outSlope: -3.536866
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 0.9999
+          value: 1
+          inSlope: -1.5713626
+          outSlope: -1.5713626
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 1
           value: 0
           inSlope: 0
           outSlope: 0
@@ -356,7 +374,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
   m_Name: WhiteBalance
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   temperature:
     m_OverrideState: 1
     m_Value: 0
