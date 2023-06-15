@@ -1,13 +1,13 @@
 # TODO
 
 - Finish adjusting the sound
-- Create final animation where the clione jump with egg into water
 - Animate characters / landscape / features => Start rigging
 - Create the hand gesture for unity
 - Create cloud of noise to significate our interaction
 - Create a how to play at the beginning of the game
 - Maybe make feathers floating in the air
 
+- <del>Create final animation where the clione jump with egg into water</del>
 - <del>Do postprod (colors, ...)</del>
 - <del>Add sounds in our unity's project (and mayble clean some more)</del>
 - <del>Correct camera's position when on a sea angel</del>
