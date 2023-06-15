@@ -439,6 +439,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 200381856295475289, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
+      propertyPath: m_MaxRaycastDistance
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 200381856295475289, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
       propertyPath: m_InteractionLayers.m_Bits
       value: 4294967295
       objectReference: {fileID: 0}
@@ -557,10 +562,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 2.524
       objectReference: {fileID: 0}
+    - target: {fileID: 1224729671310407269, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: Mute
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1470082431350528778, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
       propertyPath: field of view
       value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 2064774178241837661, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_MaxRaycastDistance
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 3076661856455975825, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
@@ -810,6 +825,11 @@ PrefabInstance:
       propertyPath: m_LineType
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5522771682328567970, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_MaxRaycastDistance
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 5522771683616868821, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
       propertyPath: m_LineType
@@ -890,20 +910,40 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5841667038207767890, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: Mute
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8026248365532898592, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_ValidColorGradient.atime0
+      value: 45875
+      objectReference: {fileID: 0}
+    - target: {fileID: 8026248365532898592, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_ValidColorGradient.atime2
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 8026248365532898592, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_ValidColorGradient.ctime0
+      value: 32768
+      objectReference: {fileID: 0}
     - target: {fileID: 8026248365532898592, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
       propertyPath: m_ValidColorGradient.key0.b
-      value: 0.20334634
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8026248365532898592, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
       propertyPath: m_ValidColorGradient.key0.g
-      value: 0.6528493
+      value: 0.50980395
       objectReference: {fileID: 0}
     - target: {fileID: 8026248365532898592, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
       propertyPath: m_ValidColorGradient.key0.r
-      value: 0.9622642
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8026248366427196503, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
@@ -2668,7 +2708,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 234156861}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!114 &548975451
 MonoBehaviour:
