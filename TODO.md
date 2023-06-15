@@ -1,12 +1,8 @@
 # TODO
 
-- Finish adjusting the sound
-- Animate characters / landscape / features => Start rigging
-- Create the hand gesture for unity
-- Create cloud of noise to significate our interaction
-- Create a how to play at the beginning of the game
-- Maybe make feathers floating in the air
-
+- <del>Create a title at the beginning of the game</del>
+- <del>Finish adjusting the sound</del>
+- <del>Maybe make feathers floating in the air</del>
 - <del>Create final animation where the clione jump with egg into water</del>
 - <del>Do postprod (colors, ...)</del>
 - <del>Add sounds in our unity's project (and mayble clean some more)</del>
